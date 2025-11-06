@@ -1,4 +1,12 @@
-## Hi there 👋
+## Andr&aacute;s Zs&oacute;t&eacute;r's Stuff on GitHub  👋
+
+During my career I have worked on several project, a lot of it was on 'fringe' stuff, such as doing research in the field of [Chemoton Theory](../Chemoton) while I was an undergrad, programming in Forth, in fact working on stuff related to chips that ran Forth as their assembly language.
+
+A lot of my professional projects were firmware on embedded systems, some related to networking, often in a resource restricted environment on various microcontrollers.
+
+The public repositories shown here contain code that I have developed either with the intent of eventually using it in a paid project (which in fact did happen), or as some sort of distillation of things I have learned during several previous projects, when in retrospect I have been thinking about how to do things better or in a more generic way.
+
+I have also created repositories for stuff I have put on the internet earlier, such as a Forth system written entirely in x86 assembly decades ago, that I have used during a research project.
 
 <!--
 **azsoter/azsoter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
