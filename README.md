@@ -1,6 +1,6 @@
 ## Andr&aacute;s Zs&oacute;t&eacute;r's Stuff on GitHub  👋
 
-During my career I have worked on several project, a lot of it was on 'fringe' stuff, such as doing research in the field of [Chemoton Theory](../Chemoton) while I was an undergrad, programming in Forth, in fact working on stuff related to chips that ran Forth as their assembly language.
+During my career I have worked on several project, a lot of it was on 'fringe' stuff, such as doing research in the field of [Chemoton Theory](https://github.com/azsoter/Chemoton) while I was an undergrad, programming in Forth, in fact working on stuff related to chips that ran Forth as their assembly language.
 
 A lot of my professional projects were firmware on embedded systems, some related to networking, often in a resource restricted environment on various microcontrollers.
 
